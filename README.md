@@ -97,12 +97,6 @@ mpg-dashboard-analysis
 
 ## Dashboard Preview
 
-### Dashboard Overview
-
-![Dashboard](images/dashboard_overview.png)
-
----
-
 ### Distribution of MPG
 
 ![Histogram](images/mpg_distribution.png)
